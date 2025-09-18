@@ -10,8 +10,8 @@
 
 - [х] Создать монорепу `reflecta` с папками `/backend` и `/ios`
 - [х] Настроить git, .gitignore, README
-- [ ] Создать базовый FastAPI сервер (`/health`)
-- [ ] Поднять локально (`uvicorn`)
+- [х] Создать базовый FastAPI сервер (`/health`)
+- [х] Поднять локально (`uvicorn`)
 - [ ] Создать пустой iOS проект (`ReflectaApp`) в Xcode
 
 --
