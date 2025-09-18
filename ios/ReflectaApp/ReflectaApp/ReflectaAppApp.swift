@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct ReflectaAppApp: App {
+struct ReflectaApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

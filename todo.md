@@ -12,15 +12,15 @@
 - [х] Настроить git, .gitignore, README
 - [х] Создать базовый FastAPI сервер (`/health`)
 - [х] Поднять локально (`uvicorn`)
-- [ ] Создать пустой iOS проект (`ReflectaApp`) в Xcode
+- [х] Создать пустой iOS проект (`ReflectaApp`) в Xcode
 
 --
 
 ## Epic 2. Backend MVP
 **User Story:** Как пользователь, я хочу хранить эмоции и привычки на сервере.
 
-- [ ] Настроить SQLAlchemy и базу (SQLite → Postgres)
-- [ ] Сделать модели: `JournalEntry`, `Habit`, `HabitLog`
+- [х] Настроить SQLAlchemy и базу (SQLite → Postgres)
+- [х] Сделать модели: `JournalEntry`, `Habit`, `HabitLog`
 - [ ] CRUD для Journal: POST / GET / PUT / DELETE
 - [ ] CRUD для Habits: POST / GET / PUT / DELETE
 - [ ] CRUD для HabitLogs: POST / GET / DELETE
